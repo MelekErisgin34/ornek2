@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\dictionary ornek\dictionary ornek\obj\Debug\dictionary ornek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\dictionary ornek\dictionary ornek\obj\Debug\dictionary ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\dictionary ornek\dictionary ornek\obj\Debug\dictionary_ornek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\dictionary ornek\dictionary ornek\obj\Debug\dictionary_ornek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\dictionary ornek\dictionary ornek\obj\Debug\dictionary ornek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\dictionary ornek\dictionary ornek\obj\Debug\dictionary ornek.csproj.CoreCompileInputs.cache
